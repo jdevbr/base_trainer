@@ -1,0 +1,14 @@
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\bin\Release\base_trainer.exe.config
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\bin\Release\base_trainer.exe
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\bin\Release\base_trainer.pdb
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.Main.resources
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.Properties.Resources.resources
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.csproj.GenerateResource.cache
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.exe
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.pdb
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\bin\Release\Memory.dll
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\bin\Release\Memory.xml
+C:\Users\Jean\Desktop\develop\base_trainer\base_trainer\obj\Release\base_trainer.csproj.CopyComplete
